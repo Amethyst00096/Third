@@ -1,0 +1,14 @@
+.h2style {
+    color: blue;
+    font-size: 40px;
+}
+
+.h2stylee {
+    color: blue;
+    font-size: 40px;
+}
+
+.astyle {
+    border: 3px solid darkblue;
+    padding: 5px;
+}
